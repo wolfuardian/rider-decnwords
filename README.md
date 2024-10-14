@@ -1,0 +1,2 @@
+# rider-decnwords
+rider-plugin
